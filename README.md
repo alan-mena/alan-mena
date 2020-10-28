@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-kolibri" alt="the-kolibri" /> </p>
 
-- 🔭 I’m currently working as a **SysOps & DevOps**
+- 🔭 I’m currently working as a **SysOps & DevOps** and soon as a **DevSecOps**
 
 - 🌱 I’m currently learning **Javascript and AWS Cloud services**
 
