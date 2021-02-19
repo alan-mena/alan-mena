@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **hola@kolibri.mx**
 
-- ⚡ Fun fact **this is my work account, my personal account is [Kolibri](https://github.com/the-kolibri) Come a say hi! 🖖🏻**
+- ⚡ **This is my work account, my personal account is [Kolibri](https://github.com/the-kolibri) Come a say hi! 🖖🏻**
 
 ---
 
